@@ -3,6 +3,8 @@
 [![Shellcheck](https://github.com/zifamathebula/shell-script-wsl2-developer-setup/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/zifamathebula/shell-script-wsl2-developer-setup/actions/workflows/shellcheck.yml)
 [![YAML Lint](https://github.com/zifamathebula/shell-script-wsl2-developer-setup/actions/workflows/yamllint.yml/badge.svg)](https://github.com/zifamathebula/shell-script-wsl2-developer-setup/actions/workflows/yamllint.yml)
 [![Markdown Lint](https://github.com/zifamathebula/shell-script-wsl2-developer-setup/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zifamathebula/shell-script-wsl2-developer-setup/actions/workflows/markdownlint.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
 This WSL2 developer setup is designed to help developers quickly bootstrap their WSL2 environment with essential tools and utilities. The setup includes Proxy Configuration, DNS Configuration, Linux CLI Utilities, and Developer Tools.
 
 ## 📝 About the Setup
