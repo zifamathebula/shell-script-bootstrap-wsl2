@@ -3,7 +3,7 @@
 [![Shellcheck](https://github.com/zifamathebula/shell-script-wsl2-developer-setup/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/zifamathebula/shell-script-wsl2-developer-setup/actions/workflows/shellcheck.yml)
 [![YAML Lint](https://github.com/zifamathebula/shell-script-wsl2-developer-setup/actions/workflows/yamllint.yml/badge.svg)](https://github.com/zifamathebula/shell-script-wsl2-developer-setup/actions/workflows/yamllint.yml)
 [![Markdown Lint](https://github.com/zifamathebula/shell-script-wsl2-developer-setup/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zifamathebula/shell-script-wsl2-developer-setup/actions/workflows/markdownlint.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This WSL2 developer setup is designed to help developers quickly bootstrap their WSL2 environment with essential tools and utilities. The setup includes Proxy Configuration, DNS Configuration, Linux CLI Utilities, and Developer Tools.
 
@@ -38,18 +38,25 @@ Before proceeding, make sure you have the following installed and configured:
 ### 📥 Installation
 
 1. Open PowerShell and enter the WSL2 environment:
+
     ```powershell
     wsl
     ```
+
 2. Clone the repository:
+
     ```powershell
-    git clone https://github.com/yourusername/wsl2-developer-setup.git
+    git clone https://github.com/zifamathebula/shell-script-wsl2-developer-setup.git
     ```
+
 3. Change to the repository directory:
+
     ```powershell
     cd wsl2-developer-setup
     ```
+
 4. Execute the bootstrap script:
+
     ```powershell
     source bootstrap.sh
     ```
