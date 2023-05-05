@@ -9,6 +9,7 @@ on:
     paths:
       - '**.yml'
       - '**.yaml'
+  workflow_dispatch:
 
 jobs:
   yamllint:
